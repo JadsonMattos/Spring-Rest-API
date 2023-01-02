@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: one.digitalinnovation.gof.PadroesProjetoSpringApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 215.674 s - in one.digitalinnovation.gof.PadroesProjetoSpringApplicationTests
